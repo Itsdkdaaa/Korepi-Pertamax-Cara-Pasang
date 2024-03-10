@@ -27,7 +27,7 @@
 
 ![7](https://github.com/Itsdkdaaa/Korepi-Pertamax-Cara-Pasang/assets/121094840/896259f2-0edd-472e-84ac-775ad57374c0)
 
-**7.Kemudian paste 2x Key Pertamax yang sudah dikirim melalui DM discord, contoh : micah-oc-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX** 
+**7.Kemudian paste 2x Key Pertamax yang sudah dikirim melalui Website maxistore.id atau DM Discord, contoh : micah-oc-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX** 
 
 ![5](https://github.com/Itsdkdaaa/Korepi-Pertamax-Cara-Pasang/assets/121094840/c5684b57-8367-4c8a-ac54-c35f682f47e6)
 
