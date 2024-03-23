@@ -23,7 +23,7 @@
 
 **Jika sudah bind free card sebelumnya Tunggu sampai habis terlebih dahulu (Abaikan jika belum pernah ambil free)**
 
-**6. 1.Bind card str**
+**6. Bind card str**
 
 ![7](https://github.com/Itsdkdaaa/Korepi-Pertamax-Cara-Pasang/assets/121094840/896259f2-0edd-472e-84ac-775ad57374c0)
 
@@ -32,7 +32,7 @@
 ![5](https://github.com/Itsdkdaaa/Korepi-Pertamax-Cara-Pasang/assets/121094840/c5684b57-8367-4c8a-ac54-c35f682f47e6)
 
 
-**8. 2. Get verification File**
+**8. Get verification File**
 
 ![9](https://github.com/Itsdkdaaa/Korepi-Pertamax-Cara-Pasang/assets/121094840/9ce02a95-b8b4-4a31-94b4-f5552895a47a)
 
