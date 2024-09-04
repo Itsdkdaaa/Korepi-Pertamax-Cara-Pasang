@@ -41,6 +41,7 @@
 **10.Download file korepi di https://github.com/Cotton-Buds/calculator/releases
 (Atau discord https://discord.com/channels/1096099510184325142/1205351562604576768/1205354670403493978)**
 
+
 ![11](https://github.com/Itsdkdaaa/Korepi-Pertamax-Cara-Pasang/assets/121094840/457dc983-af13-4623-b9e2-ce5a2a20fe83)
 
 
