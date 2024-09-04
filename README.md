@@ -16,6 +16,7 @@
 ![2024-02-19_10-24-45](https://github.com/Itsdkdaaa/Korepi-Pertamax-Cara-Pasang/assets/121094840/6c4ad21d-e13e-4b29-a08b-487ec91fa55b)
 
 **5. Maka akan terbuka Micah-bot-verification, As per 1/9/2024 Korepi berubah discord menjadi KittenPals**
+
 ![korepi](https://github.com/user-attachments/assets/14b7ed11-3348-4bfc-beff-dfbb868966f3)
 
 **Jika sudah bind free card sebelumnya Tunggu sampai habis terlebih dahulu (Abaikan jika belum pernah ambil free)**
