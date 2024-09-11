@@ -2,7 +2,7 @@
 **Silahkan ikuti Discord server Maxistore, Untuk Code Vocher, Giveaway, Dan Informasi Update di : https://restorecord.com/verify/Maxistore.id**
 
 **0. Silahkan Non-Aktifkan Windows Defender terlebih dahulu**
-![1](https://github.com/user-attachments/assets/eed10978-ed9a-4314-a74f-57c3d05ac462)
+![1](https://github.com/user-attachments/assets/96a35eab-fbfb-4cce-a9f2-cd433202c27e)
 
 **1. Jika belum join discord korepi (As per 1/9/2024 Korepi berubah discord menjadi KittenPals) silahkan klik link berikut : https://discord.gg/cottonbuds**
 
