@@ -82,5 +82,7 @@
 
 ![7](https://github.com/user-attachments/assets/a0cf516f-4f4f-45f9-957e-5d6ef4935e93)
 
-**20. Done, Enjoy!!**
+**20. Done, Enjoy!! Buka Menu Dengan Cara Tekan Tombol : TAB**
+
+![images](https://github.com/user-attachments/assets/42823879-305f-4719-b41c-bfe85105c2ed)
 
