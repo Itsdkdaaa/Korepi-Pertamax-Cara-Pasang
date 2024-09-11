@@ -74,7 +74,7 @@
 
 ![5](https://github.com/user-attachments/assets/399edb2b-19cc-4762-940e-e5d07d26a543)
 
-**18. Bila Sudah Seperti ini silahkan Close panel Cmd.
+**18. Bila Sudah Seperti ini silahkan Close panel Cmd.**
 
 ![6](https://github.com/user-attachments/assets/7e91547f-4770-4732-acca-45d3a9c2b429)
 
