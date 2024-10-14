@@ -94,6 +94,8 @@
 
 ![image](https://github.com/user-attachments/assets/2c59e5e7-a613-404d-9e5b-392e7ad47518)
 
+**23. Silahkan masuk ke world (pintu)**
+
 **23. Done, Enjoy!! Buka Menu Dengan Cara Tekan Tombol : TAB**
 
 ![images](https://github.com/user-attachments/assets/42823879-305f-4719-b41c-bfe85105c2ed)
