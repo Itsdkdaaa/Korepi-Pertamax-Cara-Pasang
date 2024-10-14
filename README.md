@@ -42,47 +42,51 @@
 
 ![8](https://github.com/Itsdkdaaa/Korepi-Pertamax-Cara-Pasang/assets/121094840/6528622b-8ced-4e65-b544-5d416a06e530)
 
-**10. Download file korepi di https://github.com/Cotton-Buds/calculator/releases
-(Atau discord https://discord.com/channels/1096099510184325142/1205351562604576768/1205354670403493978)**
+**10. https://github.com/Cotton-Buds/calculator-new/releases/tag/gi**
 
-![korepi1](https://github.com/user-attachments/assets/62c507e8-2a95-4103-9ec0-4d8d4ed90377)
+![image](https://github.com/user-attachments/assets/12820ccd-8b55-48bf-a874-e476fcbdd37b)
 
-**11. Jalankan korepi lalu copy hwid di korepi**
-![12](https://github.com/Itsdkdaaa/Korepi-Pertamax-Cara-Pasang/assets/121094840/41c70728-b63b-4bc3-a2d6-23e11cf306b6)
+**11.Extrack ke file kosong dengan password : godblessyou**
 
-**12. Lalu paste ke discord korepi**
+![image](https://github.com/user-attachments/assets/bf952cb5-26ec-404c-b09e-85d913a4479d)
+
+**12. Jalankan get_hwid lalu copy hwid di korepi**
+![image](https://github.com/user-attachments/assets/46524be0-4d92-4e1b-b530-2141eda43285)
+
+**13. Lalu paste ke discord korepi**
 
 ![8](https://github.com/Itsdkdaaa/Korepi-Pertamax-Cara-Pasang/assets/121094840/6528622b-8ced-4e65-b544-5d416a06e530)
 
-**13. Silahkan Download File Enc.json dari discord korepi.**
+**14. Silahkan Download File Enc.json dari discord korepi.**
 
 ![3](https://github.com/user-attachments/assets/9c2be828-96e0-42c0-bda2-7af949af061b)
 
-**14. Kemudian Paste Enc.json Ke directory yang sama seperti korepi.**
+**15. Kemudian Paste Enc.json Ke directory yang sama seperti korepi.**
 
-![4](https://github.com/user-attachments/assets/4807fde7-cc50-4540-b9ec-e01acc25897d)
+![image](https://github.com/user-attachments/assets/2f3d042d-d699-4e01-b6e1-e6a5bd2a3763)
 
-**15. Kemudian. Download File envsetting di : https://cdn.discordapp.com/attachments/1219196946993123358/1280905367240446052/envSettingfirst_run_this.exe?ex=66e25955&is=66e107d5&hm=76485d5f6b3718d84a80a7d0df88b025d2a971282351bfa21b5e2ba68be7a7a4&**
+**16.Jalankan korepi maka akan meminta query key**
 
-**Atau Discord Server : https://discord.com/channels/1096099510184325142/1219196946993123358/1280905367852679209**
+![image](https://github.com/user-attachments/assets/2364c119-30ee-4ac1-9cc2-5d42ca245237)
 
-**16. Paste File envsetting ke directory yang sama seperti korepi. Maka Akan Terlihat Seperti Ini**
+**17. pergi ke discord korepi #verification kemudian click 1x Receive SP key**
 
-![4](https://github.com/user-attachments/assets/4807fde7-cc50-4540-b9ec-e01acc25897d)
+![image](https://github.com/user-attachments/assets/daf51d98-36e4-45ee-a28c-eff1f9cb9b17)
 
-**17. Jalankan File envsetting.**
+**18. lalu Click 1x Query SP key maka akan mucul key query untuk dipaste ke korepi**
 
-![5](https://github.com/user-attachments/assets/399edb2b-19cc-4762-940e-e5d07d26a543)
+![image](https://github.com/user-attachments/assets/47bcdc9c-4609-458c-b2a3-e637d35e0715)
 
-**18. Bila Sudah Seperti ini silahkan Close panel Cmd.**
+**19. paste ke korepi kemudian  click ?? yang tengah atau lebar**
 
-![6](https://github.com/user-attachments/assets/7e91547f-4770-4732-acca-45d3a9c2b429)
+![image](https://github.com/user-attachments/assets/36e43e68-5089-44ae-aa4e-ac5e86596cd0)
 
-**19. Jalankan Korepi. Korepi akan minta folder genshin impact game, pilih genshin impact (bukan launcher).**
+
+**20. Jalankan Korepi. Korepi akan minta folder genshin impact game, pilih genshin impact (bukan launcher).**
 
 ![7](https://github.com/user-attachments/assets/a0cf516f-4f4f-45f9-957e-5d6ef4935e93)
 
-**20. Done, Enjoy!! Buka Menu Dengan Cara Tekan Tombol : TAB**
+**21. Done, Enjoy!! Buka Menu Dengan Cara Tekan Tombol : TAB**
 
 ![images](https://github.com/user-attachments/assets/42823879-305f-4719-b41c-bfe85105c2ed)
 
