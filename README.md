@@ -77,7 +77,7 @@
 
 ![image](https://github.com/user-attachments/assets/47bcdc9c-4609-458c-b2a3-e637d35e0715)
 
-**19. paste ke korepi kemudian  click ?? yang tengah atau lebar**
+**19. paste ke korepi kemudian Centang kedua box diatasnya. Lalu click ?? yang tengah atau lebar**
 
 ![image](https://github.com/user-attachments/assets/36e43e68-5089-44ae-aa4e-ac5e86596cd0)
 
