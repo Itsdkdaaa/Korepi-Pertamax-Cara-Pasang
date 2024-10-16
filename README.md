@@ -69,15 +69,15 @@
 
 ![image](https://github.com/user-attachments/assets/2364c119-30ee-4ac1-9cc2-5d42ca245237)
 
-**17. pergi ke discord korepi #verification kemudian click 1x Receive SP key**
+**17. Pergi ke discord korepi #verification kemudian click 1x Receive SP key**
 
 ![image](https://github.com/user-attachments/assets/daf51d98-36e4-45ee-a28c-eff1f9cb9b17)
 
-**18. lalu Click 1x Query SP key maka akan mucul key query untuk dipaste ke korepi**
+**18. Lalu Click 1x Query SP key maka akan mucul key query untuk dipaste ke korepi**
 
 ![image](https://github.com/user-attachments/assets/47bcdc9c-4609-458c-b2a3-e637d35e0715)
 
-**19. paste ke korepi kemudian Centang kedua box diatasnya. Lalu click ?? yang tengah atau lebar**
+**19. Paste ke korepi kemudian Centang kedua box diatasnya. Lalu click ?? yang tengah atau lebar**
 
 ![image](https://github.com/user-attachments/assets/36e43e68-5089-44ae-aa4e-ac5e86596cd0)
 
@@ -86,11 +86,11 @@
 
 ![7](https://github.com/user-attachments/assets/a0cf516f-4f4f-45f9-957e-5d6ef4935e93)
 
-**21. Jika semuanya benar korepi akan meminta pilihan 1.(versi stable) 2.(versi aman) silahkan dipilih (bebas 1 atau 2)
+**21. Jika semuanya benar korepi akan meminta pilihan 1.(versi stable) 2.(versi aman) silahkan dipilih (bebas 1 atau 2)**
 
 ![image](https://github.com/user-attachments/assets/2d9a0c0b-a702-445c-86dd-7db5c9bff1a0)
 
-**22. Setelah memilih maka akn muncul prompt korepi ikuti lagi petunjuk di nomor 19. kemudian tunggu sampai korepi membuka game dengan sendirinya.
+**22. Setelah memilih maka akn muncul prompt korepi ikuti lagi petunjuk di nomor 19. kemudian tunggu sampai korepi membuka game dengan sendirinya.**
 
 ![image](https://github.com/user-attachments/assets/2c59e5e7-a613-404d-9e5b-392e7ad47518)
 
