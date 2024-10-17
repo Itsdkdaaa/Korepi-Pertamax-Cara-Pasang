@@ -86,7 +86,7 @@
 
 ![7](https://github.com/user-attachments/assets/a0cf516f-4f4f-45f9-957e-5d6ef4935e93)
 
-**21. Jika semuanya benar korepi akan meminta pilihan 1.(versi stable) 2.(versi aman) silahkan dipilih (bebas 1 atau 2)**
+**21. Jika semuanya benar korepi akan meminta pilihan 1.(versi stable) 2.(versi aman) silahkan dipilih versi 2**
 
 ![image](https://github.com/user-attachments/assets/2d9a0c0b-a702-445c-86dd-7db5c9bff1a0)
 
