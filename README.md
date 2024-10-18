@@ -42,7 +42,7 @@
 
 ![8](https://github.com/Itsdkdaaa/Korepi-Pertamax-Cara-Pasang/assets/121094840/6528622b-8ced-4e65-b544-5d416a06e530)
 
-**10. Download file korepi di : https://github.com/Cotton-Buds/calculator-new/releases/tag/gi**
+**10. Download file korepi di : https://github.com/Cotton-Buds/calculator/releases/tag/gi**
 
 ![image](https://github.com/user-attachments/assets/12820ccd-8b55-48bf-a874-e476fcbdd37b)
 
